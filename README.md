@@ -1,2 +1,2 @@
 # ts-template
-Typescript + rollup + (karma + webpack + mocha + power-assert)
+TypeScript + rollup + (karma + webpack + mocha + power-assert)
